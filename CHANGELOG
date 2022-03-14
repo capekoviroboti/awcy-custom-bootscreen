@@ -1,0 +1,11 @@
+# 0.01
+
+* Pre-release. Everything is changing very rapidly; don't depend on anything working or staying stable.
+
+# 0.02
+
+* Migrate all of the files for compiling DWIN LCD display firmware into
+[another project](https://gitlab.com/capekoviroboti/ender3v2-customizer). This
+repo now focuses exclusively on documentation and `.h` files for compiling
+Marlin with support for a customized bootscreen on printers with
+simple graphical LCDs.
